@@ -1,4 +1,4 @@
-# Reddit Video Downloader
+# Reddit Video Downloader CLI App
 
 A Python script that downloads videos from Reddit and converts them to vertical format suitable for Reels/Shorts (9:16 aspect ratio).
 
